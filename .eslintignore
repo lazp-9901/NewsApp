@@ -1,0 +1,6 @@
+node_modules
+dist
+coverage
+metro.config.js
+babel.config.js
+App-test.tsx
